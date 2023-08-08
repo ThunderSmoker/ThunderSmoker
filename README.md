@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SpringBoot<br>👯Always eager to contribute in great innovations<br>🌱 I’m currently learning<br>💬 A tech enthusiast you should conversate with
+🌱 I’m currently learning SpringBoot<br>👯Always eager to contribute in great innovations<br>💬 A tech enthusiast you should conversate with
 
 
 ## 🌐 Socials:
