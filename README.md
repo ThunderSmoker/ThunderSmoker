@@ -1,4 +1,5 @@
-
+ 
+<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="10000" height="300" >
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Aradhya Pitlawar (ThunderSmoker)  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Competitive+Programming+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cloud+Computing+%F0%9F%8C%90;DevOps+%F0%9F%97%84%EF%B8%8F;Software_Development+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" /></a></h3>
@@ -39,7 +40,7 @@
 </div>
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
-<a href="https://app.daily.dev/thundersmoker"><img src="https://api.daily.dev/devcards/v2/Om9bALys7NZ7STcufD0Uo.png?r=3wv" width="350" alt="Aradhya Pitlawar's Dev Card"/></a>
+<a href="https://app.daily.dev/thundersmoker"><img src="https://api.daily.dev/devcards/v2/Om9bALys7NZ7STcufD0Uo.png?r=3wv" width="300" alt="Aradhya Pitlawar's Dev Card"/></a>
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/thundersmoker?ext=activity&theme=dark&font=nunito" />
 </p>
 </div>
