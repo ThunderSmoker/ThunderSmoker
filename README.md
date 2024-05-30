@@ -39,7 +39,7 @@
 </div>
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
-<a href="https://app.daily.dev/thundersmoker"><img src="https://api.daily.dev/devcards/v2/Om9bALys7NZ7STcufD0Uo.png?r=3wv" width="356" alt="Aradhya Pitlawar's Dev Card"/></a>
+<a href="https://app.daily.dev/thundersmoker"><img src="https://api.daily.dev/devcards/v2/Om9bALys7NZ7STcufD0Uo.png?r=3wv" width="300" alt="Aradhya Pitlawar's Dev Card"/></a>
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/thundersmoker?ext=activity&theme=dark&font=nunito" />
 </p>
 </div>
