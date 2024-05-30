@@ -1,5 +1,10 @@
-# 💫 About Me:
-🌱 I’m currently learning SpringBoot<br>👯Always eager to contribute in great innovations<br>💬 A tech enthusiast you should conversate with
+![Thundersmoker](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi 👋, I'm Aradhya Pitlawar (ThunderSmoker)  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Competitive+Programming+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cloud+Computing+%F0%9F%8C%90;DevOps+%F0%9F%97%84%EF%B8%8F;Software_Development+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" /></a></h3>
 
 [![@ThunderSmoker's Holopin board](https://holopin.me/thundersmoker)](https://holopin.io/@thundersmoker)
 ## 🌐 Socials:
@@ -33,21 +38,32 @@
   </a>
   
 </div>
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
 <a href="https://app.daily.dev/thundersmoker"><img src="https://api.daily.dev/devcards/v2/Om9bALys7NZ7STcufD0Uo.png?r=3wv" width="356" alt="Aradhya Pitlawar's Dev Card"/></a>
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/thundersmoker?ext=activity&theme=dark&font=nunito" />
 </p>
 </div>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThunderSmoker&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThunderSmoker&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderSmoker&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThunderSmoker&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-[![](https://visitcount.itsvg.in/api?id=ThunderSmoker&icon=7&color=1)](https://visitcount.itsvg.in)
+<p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thundersmoker&show_icons=true&theme=algolia&locale=en&layout=compact" alt="thundersmoker"  width=400px/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thundersmoker&theme=algolia" alt="thundersmoker" />
+</p>
+
+
+
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=thundersmoker&show_icons=true&theme=algolia&locale=en" alt="thundersmoker" flex-grow=1 width= 400px />
+
+
+# 🏆 GitHub Trophies:
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThunderSmoker&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="thundersmoker" /></a> 
+
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
