@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning SpringBoot<br>👯Always eager to contribute in great innovations<br>💬 A tech enthusiast you should conversate with
-<img src="https://scontent.cdninstagram.com/v/t51.29350-15/445574824_472259395329054_6830840162170885976_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=zcQ_urxw-lkQ7kNvgG6nhte&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzM3NTU0MTU1MDc4NjYyMjA1NA%3D%3D.2-ccb7-5&oh=00_AYBklTsdSxBI2Rbq4OzjJRH_R83pRQjOno-MOS2rjbBziw&oe=665EC6AF&_nc_sid=10d13b" align="right" width="200"/>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/693842931311968318) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aradhya-pitlawar-a09aa622a) 
